@@ -23,3 +23,8 @@ All of these functions are executed through a carefully written Arduino program,
 The primary value of this project lies in its educational and conceptual clarity. It introduces fundamental embedded system principles like digital input/output handling, sensor integration, condition checking, and simulation of real-world interactions through code. Though simplified, the system accurately mirrors the logical behavior of more complex commercial systems and lays a strong foundation for future upgrades such as camera modules, GSM or Wi-Fi communication, and cloud-based alert systems. In real implementation, this system could easily be extended to send SMS or app notifications, capture actual photos or videos, and interface with a broader IoT ecosystem.
 
 In summary, this motion-detecting security prototype successfully demonstrates how a basic yet functional security response can be implemented, simulated, and validated entirely on a virtual platform like Tinkercad. It offers both a learning opportunity and a practical stepping stone toward more advanced smart security solutions, all without the need for physical hardware.
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c29a3aeb-0f40-4f20-8842-ac4b2ed080fe)
