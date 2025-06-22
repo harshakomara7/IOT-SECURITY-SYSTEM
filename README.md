@@ -12,10 +12,6 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-Certainly! Here's a **professional and natural 500+ word description** of your motion-detecting security system prototype designed using **Tinkercad**:
-
----
-
 In today’s world, security is no longer a luxury—it is a necessity. Whether it's for homes, offices, or public spaces, the demand for efficient, affordable, and reliable security systems is on the rise. To address this growing need in a simplified, accessible manner, this project aims to develop a virtual prototype of a motion-detecting security system using an Arduino microcontroller, entirely simulated on the Tinkercad platform. This system is designed to detect motion, simulate image capture, and generate real-time alerts, all without relying on any physical hardware. The objective is to showcase the conceptual functionality of a basic yet effective security solution that could easily be scaled up in real-world applications with physical components and IoT integration.
 
 At the core of this project lies the Arduino Uno, a widely adopted and beginner-friendly microcontroller. It acts as the brain of the system, continuously monitoring input from a PIR (Passive Infrared) motion sensor. The PIR sensor is a low-cost component that detects infrared radiation, commonly used to sense movement of people or animals. When motion is detected, the sensor sends a HIGH signal to the Arduino, triggering a predefined sequence of actions that simulate the real-life response of a smart security system.
